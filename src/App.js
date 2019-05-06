@@ -1,25 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import Nav from "./components/Nav"
+import Wrapper from "./components/Wrapper"
+import Row from "./Row";
+import Container from "./Container";
+import Title from "./components/Title";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Wrapper>
+      <Nav
+      // title="Warriors Memory Game"
+      score={this.state.currentScore}
+      topScore={this.state.topScore}
+      rightWrong={this.state.rightWrong}
+      />
+      <Title>
+        Click on each Warrior member, but don't hit a duplicate or you lose the game.
+      </Title>
+
+      <Container>
+        <Row>
+
+        </Row>
+      </Container>
+
+    </Wrapper>
   );
 }
 
