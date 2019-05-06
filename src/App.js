@@ -11,9 +11,9 @@ function App() {
     <Wrapper>
       <Nav
       // title="Warriors Memory Game"
-      score={this.state.currentScore}
-      topScore={this.state.topScore}
-      rightWrong={this.state.rightWrong}
+      // score={this.state.currentScore}
+      // topScore={this.state.topScore}
+      // rightWrong={this.state.rightWrong}
       />
       <Title>
         Click on each Warrior member, but don't hit a duplicate or you lose the game.
