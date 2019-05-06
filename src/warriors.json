@@ -1,22 +1,22 @@
 [
     {
       "id": 1,
-      "image": "./assets/images/bd.jpg",
+      "image": "/assets/images/bd.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "./assets/images/bd.jpg",
+      "image": "../assets/images/bd.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "./assets/images/bd.jpg",
+      "image": ".../assets/images/bd.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "./assets/images/bd.jpg",
+      "image": "..../assets/images/bd.jpg",
       "clicked": false
     },
     {
