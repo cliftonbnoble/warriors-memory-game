@@ -7,6 +7,8 @@ import Column from "./Column";
 import WarriorCard from "./components/WarriorCard";
 import warriors from "./warriors.json";
 import Title from "./components/Title";
+// import SweetAlert from 'sweetalert2-react';
+import Swal from 'sweetalert2'
 import './App.css';
 
 function shuffleWarriors(array) {
@@ -45,8 +47,9 @@ handleIncrement = () => {
   if (newScore >= this.state.topScore) {
     this.setState({ topScore: newScore })
   }
-  else if (newScore === 12) {
+  if (newScore === 12) {
     this.setState({ rightWrong: "DUBS WIN!!!"});
+    Swal.fire("DUBS WIN!!", "You guessed them All", "Success");
   }
   this.handleShuffle();
 }
