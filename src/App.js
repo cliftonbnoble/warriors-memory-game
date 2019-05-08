@@ -34,6 +34,7 @@ handleClick = id => {
     this.handleIncrement();
     this.setState({ clicked: this.state.clicked.concat(id) });
   } else {
+    Swal.fire('Oops...', 'You already selected that Guy!', 'error')
     this.handleReset();
   }
 }
