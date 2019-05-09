@@ -2,7 +2,7 @@
   "name": "warriors-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cliftonnoble.dev/warriors-memory-game/",
+  "homepage": "https://cliftonbnoble.github.io/warriors-memory-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
