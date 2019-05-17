@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/warriors-memory-game/static/css/main.c508003d.chunk.css",
+    "main.js": "/warriors-memory-game/static/js/main.7f471792.chunk.js",
+    "main.js.map": "/warriors-memory-game/static/js/main.7f471792.chunk.js.map",
+    "runtime~main.js": "/warriors-memory-game/static/js/runtime~main.c59e7830.js",
+    "runtime~main.js.map": "/warriors-memory-game/static/js/runtime~main.c59e7830.js.map",
+    "static/js/2.1fea4741.chunk.js": "/warriors-memory-game/static/js/2.1fea4741.chunk.js",
+    "static/js/2.1fea4741.chunk.js.map": "/warriors-memory-game/static/js/2.1fea4741.chunk.js.map",
+    "index.html": "/warriors-memory-game/index.html",
+    "precache-manifest.17b9233e891200eeac5ebfe4dcea3ebb.js": "/warriors-memory-game/precache-manifest.17b9233e891200eeac5ebfe4dcea3ebb.js",
+    "service-worker.js": "/warriors-memory-game/service-worker.js",
+    "static/css/main.c508003d.chunk.css.map": "/warriors-memory-game/static/css/main.c508003d.chunk.css.map"
+  }
+}
