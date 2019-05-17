@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5bddd3af07e51930a23b2d61cbac135",
+    "revision": "3a3e57c0acacdd77116439e6c6b9ace7",
     "url": "/warriors-memory-game/index.html"
   },
   {
-    "revision": "cfeb181a840444c6420b",
-    "url": "/warriors-memory-game/static/css/main.c508003d.chunk.css"
+    "revision": "eb32f9f94166c8ff005a",
+    "url": "/warriors-memory-game/static/css/main.9366f405.chunk.css"
   },
   {
     "revision": "1c70fd400692ec20cdb0",
     "url": "/warriors-memory-game/static/js/2.1fea4741.chunk.js"
   },
   {
-    "revision": "cfeb181a840444c6420b",
+    "revision": "eb32f9f94166c8ff005a",
     "url": "/warriors-memory-game/static/js/main.7f471792.chunk.js"
   },
   {

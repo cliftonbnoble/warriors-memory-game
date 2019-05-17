@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/warriors-memory-game/precache-manifest.17b9233e891200eeac5ebfe4dcea3ebb.js"
+  "/warriors-memory-game/precache-manifest.419e8cb8086b12aef26c904df31a174f.js"
 );
 
 self.addEventListener('message', (event) => {
