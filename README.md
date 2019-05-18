@@ -1,4 +1,4 @@
-[I'm an inline-style link with title](https://cliftonnoble.dev/warriors-memory-game/ "Game Link")
+[Warriors Memory Game - Link](https://cliftonnoble.dev/warriors-memory-game/ "Game Link")
 
 # Warriors Memory Game
 
